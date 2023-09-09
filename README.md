@@ -3,7 +3,7 @@
 ## EXAMEN FINAL OPCIÓN B
 Este es el proyecto/examen final para la materia Tratamiento de Datos de la Maestría en Ciberseguridad de la Universidad Internacional del Ecuador.
 
-Autor:Walter Sebastián Jara Morillo
+Autor: Walter Sebastián Jara Morillo
 
 *lA PÁGINA EN LA CUÁL SE REALIZÓ LA CONSULTA ES LA SIGUIENTE(https://www.camisetasfutboleses.com/)*
 
