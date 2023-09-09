@@ -24,7 +24,7 @@ Autor: Walter Sebastián Jara Morillo
 ---
 Es común en muchos repositorios open source el uso de badges o escudos para dar visbilidad el uso de microservicios, licencias, descargas, etc. Recomendamos revisar la iniciativa https://shields.io/ donde según consideres necesario podrás generar badges para tu repo. 
 
-### Herramientas
+### Herramientas & Proceso
 
 ![HerramientasExcalidraw](https://github.com/sebasjm11/ExamenFinalTratamientoDeDatos/assets/45462923/df831343-7b57-4c52-8e0d-ae3b42578a90)
 
