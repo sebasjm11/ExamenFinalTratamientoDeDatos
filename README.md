@@ -1,8 +1,9 @@
 
 
-## EXAMEN FINAL
-Este es el proyecto/examen final para Tratamiento de Datos.
-Autor: Sebastián Jara
+## EXAMEN FINAL OPCIÓN B
+Este es el proyecto/examen final para la materia Tratamiento de Datos de la Maestría en Ciberseguridad de la Universidad Internacional del Ecuador.
+
+Autor:Walter Sebastián Jara Morillo
 
 *lA PÁGINA EN LA CUÁL SE REALIZÓ LA CONSULTA ES LA SIGUIENTE(https://www.camisetasfutboleses.com/)*
 
@@ -25,10 +26,7 @@ Es común en muchos repositorios open source el uso de badges o escudos para dar
 
 ### Herramientas
 
-- code coverage percentage: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
-- stable release version: ![version](https://img.shields.io/badge/version-1.2.3-blue)
-- package manager release: ![gem](https://img.shields.io/badge/gem-2.2.0-blue)
-- status of third-party dependencies: ![dependencies](https://img.shields.io/badge/dependencies-out%20of%20date-orange)
+![HerramientasExcalidraw](https://github.com/sebasjm11/ExamenFinalTratamientoDeDatos/assets/45462923/df831343-7b57-4c52-8e0d-ae3b42578a90)
 
 
 ### Resultados
