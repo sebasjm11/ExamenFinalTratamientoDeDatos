@@ -6,9 +6,9 @@ Autor: Sebastián Jara
 
 *lA PÁGINA EN LA CUÁL SE REALIZÓ LA CONSULTA ES LA SIGUIENTE(https://www.camisetasfutboleses.com/)*
 
-<h1 align="center"> CAMISETAS FUTBOL ES</h1>
-<p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
-<p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
+<h1 align="center"> CAMISETAS FUTBOL ESPAÑOL</h1>
+<p align="center"> Logo de la página</p>
+<p align="center"><img src="https://www.camisetasfutboleses.com/image/catalog/camisetasfutboleses/untitled%20folder/picture13627358327771-1.jpg"/></p> 
 
 ## Tabla de contenidos:
 ---
