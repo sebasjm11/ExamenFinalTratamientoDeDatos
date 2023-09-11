@@ -21,8 +21,7 @@ Autor: Walter Sebastián Jara Morillo
 
 
 ## Antecedentes
----
-Es común en muchos repositorios open source el uso de badges o escudos para dar visbilidad el uso de microservicios, licencias, descargas, etc. Recomendamos revisar la iniciativa https://shields.io/ donde según consideres necesario podrás generar badges para tu repo. 
+En el presente proyecto proporciona una interfaz web simple para acceder a datos relacionados con camisetas del Real Madrid almacenados en una base de datos MongoDB. En esta se busca guardar su el nombre de las camisetas con el año del que son con su descripción. Todo esto mediante el programa realizado en Phycharm con las respectivas librerías para ejecución de un código que contaba con varias clases. 
 
 ### Herramientas & Proceso
 
@@ -34,16 +33,8 @@ Es común en muchos repositorios open source el uso de badges o escudos para dar
 
 ### Resultados
 ---
-En la iniciativa Código para el Desarrollo solicitamos a los equipos que suman sus herramientas al catálogo de sumar el badge generado por el uso del microservicio de evaluación estática de código SonarCloud.
-
-El badge se ve así y redirige al reporte de evaluación estática del último commit de la herramienta:
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_Plantilla-de-repositorio&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=EL-BID_Plantilla-de-repositorio)
-
+Como resultados se obtuvo los datos de la página mencionada realizando la búsqueda desde la barra "Buscar" y colocando "Real Madrid Retro" y automatizando que dé clicks por si solos, además de en un dropdownlist colocar que presente 25 camisetas y no solo 16 en la página, una vez filtrado lo requerido se extrajo los datos como la descripción de cada una de las camisetas de "Real Madrid Retro" las cuáles presentaban la descripción de la camiseta, su precio oferta, precio normal y el descuento que se presentaba en ese momento. Para luego almacenarlas en la base de datos en MongoDB, en una colección.
 
 ## Dificultades encontradas
 ---
-Esto es un archivo README. Debe contener la documentación de soporte uso de la herramienta digital. Las siguientes secciones son las secciones recomendadas que debes poner incluir en cualquier herramienta digital. Puedes descargar este archivo para que te sirva como plantilla.
-
-Asegúrate de empezar este archivo con una breve descripción sobre las funcionalidades y contexto de la herramienta digital. Sé conciso y al grano.
-
+Cómo dificultades principales se obtuvo lo que es el tipo de datos que presentaba cada una de las camisetas, ya que ciertas no contaban con el descuento, entonces eso obtenía un error al ejecutar. Así que se añadió un try y un exception para que no presente el inconveniente. Adicional, ciertos datos al tener tipos y clases diferentes se tendía a una confusión directamente en el código html. Finalmente el apartado de Flask fue complicado encontrar la manera correcta de realizarlo, especialmente desde pycharm para luego presentarlo en el navegador.
