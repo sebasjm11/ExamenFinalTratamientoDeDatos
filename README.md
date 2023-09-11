@@ -21,9 +21,14 @@ Autor: Walter Sebastián Jara Morillo
 
 
 ## Antecedentes
-En el presente proyecto proporciona una interfaz web simple para acceder a datos relacionados con camisetas del Real Madrid almacenados en una base de datos MongoDB. En esta se busca guardar su el nombre de las camisetas con el año del que son con su descripción. Todo esto mediante el programa realizado en Phycharm con las respectivas librerías para ejecución de un código que contaba con varias clases. 
+En el presente proyecto proporciona una interfaz web simple para acceder a datos relacionados con camisetas del Real Madrid almacenados en una base de datos MongoDB. En esta se busca guardar su el nombre de las camisetas con el año del que son con su descripción. Todo esto mediante el programa realizado en python.
+
 
 ### Herramientas & Proceso
+
+Se utiliza la biblioteca Selenium para automatizar la extracción de esta información. Comienza por realizar una búsqueda de "Real Madrid Retro", navega por la página de resultados y extrae detalles como el nombre, el precio de oferta, el descuento y el precio normal de cada camiseta encontrada. Luego, utiliza la clase MongoDriver para almacenar estos datos en una base de datos MongoDB, categorizándolos bajo el usuario "Camisetas Real Madrid". Este proceso automatizado permite la recopilación eficiente de información de productos desde el sitio web y su almacenamiento en una base de datos para su posterior análisis o uso.
+
+En resumen, el código logra la automatización de la extracción y el almacenamiento de datos de productos de un sitio web, lo que facilita la recopilación de información actualizada y su posterior gestión en una base de datos para su análisis o aplicación en estrategias comerciales.
 
 ![HerramientasExcalidraw](https://github.com/sebasjm11/ExamenFinalTratamientoDeDatos/assets/45462923/df831343-7b57-4c52-8e0d-ae3b42578a90)
 
